@@ -1,4 +1,3 @@
-```md
 # 🌍 World Country App
 
 A full-stack React Native app built using **Expo**, **GraphQL Yoga**, **Prisma**, and **SQLite** that lets you explore and add countries with full backend support.
